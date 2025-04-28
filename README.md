@@ -4,7 +4,7 @@ This is the React extension of the [QR Code Component](https://www.frontendmento
 ## Overview
 Unlike the base project that it simply a card advertising Frontend Mentor with a QR Code, the user can now generate and download their own QR codes. The QR code is automatically updated as the user fills in the text box, and what they type is copied below the QR code for reference. The user can change the foreground and background with the color inputs below the text box. The user can download just the QR code with the surrounding box, or they can also include the reference link. By default, the QR code has a white foreground, a blue background, and `https://www.frontendmentor.io/` (the link from the challenge) as the value.
 
-![Screenshot of desktop version](../public/screenshot.png)
+![Screenshot of desktop version](screenshot.png)
 
 ## Author
 - GitHub Profile: [PresidentTree94](https://github.com/PresidentTree94)
